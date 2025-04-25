@@ -23,7 +23,6 @@
     <p>F E L I Z</p>
     <p>A N I V E R S A R I O</p>
     <p>P A I !</p>
-   <p>M U I T O S A N O S   D E  V I D A</p>
   </div>
 </body>
 </html>
